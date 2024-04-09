@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750456364194",
+    "project_id": "vivify-technocrats",
+    "storage_bucket": "vivify-technocrats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750456364194:android:b9ee403588cd446747cbfb",
+        "android_client_info": {
+          "package_name": "com.example.vivify_technocrats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7IT61blkQCNpqnP2PgLQxzR8zBBWNHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
